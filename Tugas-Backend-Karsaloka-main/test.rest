@@ -1,0 +1,10 @@
+###
+PUT http://localhost:3000/notes/1
+Content-Type: application/json
+
+{
+    "tittle":"Mengerjakan Tugas Backend",
+    "datetime":"2024-06-20 23:59:00",
+    "note":"Membuat notes_db dengan ketentuan tabel yang sudah diberikan"
+}
+
